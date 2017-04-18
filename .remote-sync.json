@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "43.252.229.2",
+  "port": "22",
+  "target": "/Zhou/scrapy",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "root",
+  "password": "zz7758258.",
+  "watch": [],
+  "transport": "scp"
+}

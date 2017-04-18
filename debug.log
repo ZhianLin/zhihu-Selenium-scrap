@@ -1,0 +1,10 @@
+[0412/033016.705:ERROR:process_reader_win.cc(114)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0412/033016.705:ERROR:exception_snapshot_win.cc(87)] thread ID 28620 not found in process
+[0412/033016.705:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0412/033056.920:ERROR:process_reader_win.cc(114)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0412/033056.920:ERROR:exception_snapshot_win.cc(87)] thread ID 34644 not found in process
+[0412/033056.920:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0412/190220.370:ERROR:process_info.cc(625)] range at 0x58bd39dc00000000, size 0x278 fully unreadable
+[0412/190220.445:ERROR:process_info.cc(625)] range at 0x58bd39fc00000000, size 0x278 fully unreadable
+[0412/190220.445:ERROR:process_info.cc(625)] range at 0x0, size 0x278 fully unreadable
+[0412/190428.372:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: 操作超时  (0x2EE2)

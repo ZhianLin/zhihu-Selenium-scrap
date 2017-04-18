@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="zh-cn" dir="ltr">
+<head>
+<title>评价最高的影片 - JAVLibrary</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"70126b52112cb6bf8147a47cefc6ae00",petok:"3f64746b81df48c17e37c230ed1bc1b73c07195c-1492150244-64156",adblock:1,betok:"694925545bf6bc8b665e861e98f169405f01f35b-1492150244-120",zone:"javlibrary.com",rocket:"0",apps:{}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=905ca5bd16/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="../js/main.css?1491322222" type="text/css" rel="stylesheet" />
+<script src="../js/jquerylibrary.min.js?1491322222" type="text/javascript"></script>
+<script src="../js/main.min.js?1491322222" type="text/javascript"></script>
+<meta name="Description" content="评价最高的影片清单。" />
+<!-- ********* Start of Custom Header *********  -->
+<link rel="alternate" href="rss.php" title="RSS feed" type="application/rss+xml" />
+<script src="../js/videocensored.lang.js.php?hl=cn&1491322222" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript" src="../js/vl_addfav.min.js?1491322222"></script>
+<script type="text/javascript">
+var $usingAjax = false;
+</script>
+<!-- ********* End of Custom Header *********  -->
+</head>
+<body class="main">
+<!-- ********* Start of Top Menu *********  -->
+<div id="topmenu">
+	<div class="searchbar">
+		<form name="searchbar" method="get" action="vl_searchbyid.php">
+		<table>
+		<tr>
+			<td>
+				<input type="text" name="keyword" id="idsearchbox" value="" />
+				<div id="idsearchboxmask" >&lt;例: TT-013&gt;</div>
+			</td>
+			<td><input type="button" value="识别码搜寻" id="idsearchbutton" /></td>
+			<td class="advsearch">&nbsp;&nbsp;[<a href="search.php">进阶搜寻</a>]</td>
+			<td class="socialmedia">
+				<div class="g-plusone media" data-size="medium" data-href="http://www.javlibrary.com"></div>
+				<a href="https://twitter.com/share" class="twitter-share-button media" data-url="http://www.javlibrary.com" data-text="JAVLibary">Tweet</a>
+				<div class="fb-like media" data-href="http://www.javlibrary.com" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" style="margin:0px 10px 0px 0px; padding-bottom: 5px;"></div>
+				<div id="fb-root"></div>
+			</td>
+		</tr>
+		</table>
+		</form>
+	</div class="searchbar">
+	<div class="menutext">
+		<script type="text/javascript">
+		<!--
+		if (getCookie("session") == null || getCookie("userid") == null ) {
+			document.write('<a href="login.php">登入</a> | <a href="register.php">登录</a>');
+		} else {
+			if (getCookie("hasmsg") == null) {
+				document.write('<a href="myaccount.php">我的帐号</a> | <a href="pm_inbox.php">收件夹</a> | <a href="logout.php">登出</a>');
+			} else {
+				document.write('<a href="myaccount.php">我的帐号</a> | <img src="../img/img_star.gif" width="25" height="25" border="0" style="vertical-align: middle;"><a href="pm_inbox.php">收件夹</a> | <a href="logout.php">登出</a>');
+			}
+		}
+		//-->
+		</script>
+	</div class="menutext">
+</div id="topmenu">
+<div id="toplogo">
+	<div class="sitelogo">
+		<a href="./" rel='bookmark'><img src="../img/logo-top.png" width="350" height="50" border="0" title="Jav Library.com - Japanese Adult Video Library"></a>
+	</div class="sitelogo">
+	<div class="topbanner1" id="topbanner11" style="position:absolute; left:380px; top:5px; width:728px; height:92px; overflow:hidden;">
+	<script type='text/javascript' src='../js/bnr_9448c_1.js?1491322222'></script>	</div class="topbanner">
+		<div class="languagemenu">
+	Language:
+	<select onChange="if (document.location.href.toLowerCase().indexOf('j12lib.com') >= 0) {	document.location.replace(document.location.href.replace(/&page=[0-9]+/i, '').replace('j12lib.com/cn/', 'j12lib.com/'+this.options[selectedIndex].value+'/'));} else if (document.location.href.toLowerCase().indexOf('13vlib.com') >= 0) {	document.location.replace(document.location.href.replace(/&page=[0-9]+/i, '').replace('13vlib.com/cn/', '13vlib.com/'+this.options[selectedIndex].value+'/'));} else if (document.location.href.toLowerCase().indexOf('jav11b.com') >= 0) {	document.location.replace(document.location.href.replace(/&page=[0-9]+/i, '').replace('jav11b.com/cn/', 'jav11b.com/'+this.options[selectedIndex].value+'/'));} else {document.location.replace(document.location.href.replace(/&page=[0-9]+/i, '').replace('javlibrary.com/cn/', 'javlibrary.com/'+this.options[selectedIndex].value+'/'));}">
+		<option value="en">English</option>
+		<option value="ja" >日本语</option>
+		<option value="cn" selected="selected">简体中文</option>
+		<option value="tw" >正體中文</option>
+	</select>
+	</div class="languagemenu">
+	</div id="toplogo">
+<!-- ********* End of Top Menu *********  -->
+
+<div id="content">
+<!-- ********* Start of Content *********  -->
+<div id="leftmenu">
+<div class="menul1"><div class="category">影片</div>
+<ul>
+	<li><a href="vl_update.php">新话题</a></li>
+	<li><a href="vl_newrelease.php">新发行</a></li>
+	<li><a href="vl_newentries.php">新加入</a></li>
+	<li><a href="vl_mostwanted.php">最想要</a></li>
+	<li><a href="vl_bestrated.php">高评价</a></li>
+	<li><a href="search.php">进阶搜寻</a></li>
+	<li><a href="genres.php">依分类</a></li>
+</ul>
+<div class="category">演员</div>
+<ul>
+	<li><a href="star_mostfav.php">排行榜</a></li>
+	<li><a href="star_list.php?prefix=A">名鑑</a></li>
+</ul>
+<div class="category">参与</div>
+<ul>
+	<li><a href="tl_bestreviews.php">最佳评论</a></li>
+	<!-- <li><a href="topmembers.php">热门会员</a></li> -->
+	<li><a href="publicgroups.php">论坛</a></li>
+</ul></div><!-- end of menu -->
+
+<table style="margin:auto;"><tr><td>
+<div class="sidebanner1" id="sidebanner11" style="position:relative; width:160px; height:602px; overflow:hidden;">
+<script type='text/javascript' src='../js/bnr_clickbuff_2.js?1491322222'></script></div>
+
+</td></tr></table>
+
+</div>
+<div id="rightcolumn">
+	<div class="boxtitle">评价最高的影片</div>
+
+<table class="displaymode"><tr>
+	<td class="left">显示:
+	<select onChange="window.location = '/cn/vl_bestrated.php?&mode='+this.options[selectedIndex].value+'&'">
+		<option value="1" >上个月</option>
+		<option value="2" >全部</option>
+	</select>
+	</td>
+	<td class="right"><a href="/cn/vl_bestrated.php?list&mode=&page=1">文字模式</a></td>
+</tr></table>
+<div class="videothumblist">
+<div class="videos">
+<div class="video" id="vid_javlikb2te"><a href="./?v=javlikb2te" title="ABP-566 絶対的鉄板シチュエーション 2 あやみ旬果"><div class="id">ABP-566</div><img src="http://pics.dmm.co.jp/mono/movie/adult/118abp566/118abp566ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53044/ce535d530435607.jpg');"  /><div class="title" >絶対的鉄板シチュエーション 2 あやみ旬果</div></a><div class="toolbar"><a id="javlikb2te" class="icn_want" title="我想要"></a><a id="javlikb2te" class="icn_seen" title="看过了"></a><a id="javlikb2te" class="icn_have" title="已拥有"></a></div></div>
+
+<div class="video" id="vid_javliklw7q"><a href="./?v=javliklw7q" title="IPZ-922 究極のフェラチオマニアックス ネバスペたっぷり！お掃除フェラじっくり！いやらしお姉さんの超絶そそるごっくん淫語フェラチオ ティア"><div class="id">IPZ-922</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ipz922/ipz922ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53903/d75763539021538.jpg');"  /><div class="title" >究極のフェラチオマニアックス ネバスペたっぷり！お掃除フェラじっくり！いやらしお姉さんの超絶そそるごっくん淫語フェラチオ ティア</div></a><div class="toolbar"><a id="javliklw7q" class="icn_want" title="我想要"></a><a id="javliklw7q" class="icn_seen" title="看过了"></a><a id="javliklw7q" class="icn_have" title="已拥有"></a></div></div>
+
+<div class="video" id="vid_javliklw7u"><a href="./?v=javliklw7u" title="IPZ-921 ボクらのオタサーの姫は萌え豚専用性処理ドMペット！ 桃乃木かな"><div class="id">IPZ-921</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ipz921/ipz921ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53903/254557539021537.jpg');"  /><div class="title" >ボクらのオタサーの姫は萌え豚専用性処理ドMペット！ 桃乃木かな</div></a><div class="toolbar"><a id="javliklw7u" class="icn_want" title="我想要"></a><a id="javliklw7u" class="icn_seen" title="看过了"></a><a id="javliklw7u" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikdq3q"><a href="./?v=javlikdq3q" title="NSPS-537 上司と部下の妻9 ～あなた、許して・・～ 本庄優花"><div class="id">NSPS-537</div><img src="http://pics.dmm.co.jp/mono/movie/adult/nsps537so/nsps537sops.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/52133/ead76c521322717.jpg');"  /><div class="title" >上司と部下の妻9 ～あなた、許して・・～ 本庄優花</div></a><div class="toolbar"><a id="javlikdq3q" class="icn_want" title="我想要"></a><a id="javlikdq3q" class="icn_seen" title="看过了"></a><a id="javlikdq3q" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikbcsm"><a href="./?v=javlikbcsm" title="SNIS-854 チ●ポ大好き超即尺おしゃぶりメイド 橋本ありな"><div class="id">SNIS-854</div><img src="http://pics.dmm.co.jp/mono/movie/adult/snis854/snis854ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53319/52933f533189202.jpg');"  /><div class="title" >チ●ポ大好き超即尺おしゃぶりメイド 橋本ありな</div></a><div class="toolbar"><a id="javlikbcsm" class="icn_want" title="我想要"></a><a id="javlikbcsm" class="icn_seen" title="看过了"></a><a id="javlikbcsm" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikdrsm"><a href="./?v=javlikdrsm" title="SHKD-724 オフィスレディの湿ったパンスト 桜木凛"><div class="id">SHKD-724</div><img src="http://pics.dmm.co.jp/mono/movie/adult/shkd724/shkd724ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails116.imagebam.com/51835/a11a99518340133.jpg');"  /><div class="title" >オフィスレディの湿ったパンスト 桜木凛</div></a><div class="toolbar"><a id="javlikdrsm" class="icn_want" title="我想要"></a><a id="javlikdrsm" class="icn_seen" title="看过了"></a><a id="javlikdrsm" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlioqjre"><a href="./?v=javlioqjre" title="EBOD-249 E-BODY×MOODYZコラボSPECIAL SSS-BODY 完全女性上位主義。 里美ゆりあ"><div class="id">EBOD-249</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ebod249/ebod249ps.jpg" width="147" height="200" border="0" onerror="ImgError(this, 2);"  /><div class="title" >E-BODY×MOODYZコラボSPECIAL SSS-BODY 完全女性上位主義。 里美ゆりあ</div></a><div class="toolbar"><a id="javlioqjre" class="icn_want" title="我想要"></a><a id="javlioqjre" class="icn_seen" title="看过了"></a><a id="javlioqjre" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlijbr2e"><a href="./?v=javlijbr2e" title="IPZ-127 僕とRioとあいのの甘すぎる同棲性活 Rio 希志あいの"><div class="id">IPZ-127</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ipz127/ipz127ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails101.imagebam.com/27555/ed4772275543043.jpg');"  /><div class="title" >僕とRioとあいのの甘すぎる同棲性活 Rio 希志あいの</div></a><div class="toolbar"><a id="javlijbr2e" class="icn_want" title="我想要"></a><a id="javlijbr2e" class="icn_seen" title="看过了"></a><a id="javlijbr2e" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikd27m"><a href="./?v=javlikd27m" title="MIDE-412 ビクビク痙攣が止まらない性感開発オイルマッサージ 伊東ちなみ"><div class="id">MIDE-412</div><img src="http://pics.dmm.co.jp/mono/movie/adult/mide412/mide412ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53580/6681fe535798432.jpg');"  /><div class="title" >ビクビク痙攣が止まらない性感開発オイルマッサージ 伊東ちなみ</div></a><div class="toolbar"><a id="javlikd27m" class="icn_want" title="我想要"></a><a id="javlikd27m" class="icn_seen" title="看过了"></a><a id="javlikd27m" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikdar4"><a href="./?v=javlikdar4" title="PPPD-531 彼女のお姉さんは巨乳と中出しOKで僕を誘惑 本田岬"><div class="id">PPPD-531</div><img src="http://pics.dmm.co.jp/mono/movie/adult/pppd531/pppd531ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/52133/c9822f521322773.jpg');"  /><div class="title" >彼女のお姉さんは巨乳と中出しOKで僕を誘惑 本田岬</div></a><div class="toolbar"><a id="javlikdar4" class="icn_want" title="我想要"></a><a id="javlikdar4" class="icn_seen" title="看过了"></a><a id="javlikdar4" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlijyesq"><a href="./?v=javlijyesq" title="SNIS-070 交わる体液、濃密セックス 宇都宮しをん （ブルーレイディスク）"><div class="id">SNIS-070</div><img src="http://pics.dmm.co.jp/mono/movie/adult/9snis070/9snis070ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails109.imagebam.com/33535/54c39a335347317.jpg');"  /><div class="title" >交わる体液、濃密セックス 宇都宮しをん （ブルーレイディスク）</div></a><div class="toolbar"><a id="javlijyesq" class="icn_want" title="我想要"></a><a id="javlijyesq" class="icn_seen" title="看过了"></a><a id="javlijyesq" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlipz62q"><a href="./?v=javlipz62q" title="MIDD-791 1日10回射精しても止まらないオーガズムSEX 大橋未久"><div class="id">MIDD-791</div><img src="http://pics.dmm.co.jp/mono/movie/adult/midd791/midd791ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails108.imagebam.com/27573/5a564c275725525.jpg');"  /><div class="title" >1日10回射精しても止まらないオーガズムSEX 大橋未久</div></a><div class="toolbar"><a id="javlipz62q" class="icn_want" title="我想要"></a><a id="javlipz62q" class="icn_seen" title="看过了"></a><a id="javlipz62q" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlijynte"><a href="./?v=javlijynte" title="ABP-159 天然成分由来 桃谷エリカ汁120％"><div class="id">ABP-159</div><img src="http://pics.dmm.co.jp/mono/movie/adult/118abp159/118abp159ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails110.imagebam.com/33535/6eac6f335341442.jpg');"  /><div class="title" >天然成分由来 桃谷エリカ汁120％</div></a><div class="toolbar"><a id="javlijynte" class="icn_want" title="我想要"></a><a id="javlijynte" class="icn_seen" title="看过了"></a><a id="javlijynte" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javliklw74"><a href="./?v=javliklw74" title="IPZ-919 調教されたアイドル 首絞め！潮噴き！連続スパンキング！イキ過ぎた調教姦！ 西宮ゆめ"><div class="id">IPZ-919</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ipz919/ipz919ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53903/d4057e539021532.jpg');"  /><div class="title" >調教されたアイドル 首絞め！潮噴き！連続スパンキング！イキ過ぎた調教姦！ 西宮ゆめ</div></a><div class="toolbar"><a id="javliklw74" class="icn_want" title="我想要"></a><a id="javliklw74" class="icn_seen" title="看过了"></a><a id="javliklw74" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikbjry"><a href="./?v=javlikbjry" title="KV-181 おしゃぶり予備校57 森沢かな"><div class="id">KV-181</div><img src="http://thumbnails117.imagebam.com/53318/3356eb533178608.jpg" width="147" height="200" border="0" onerror="ImgError(this, 2);"  /><div class="title" >おしゃぶり予備校57 森沢かな</div></a><div class="toolbar"><a id="javlikbjry" class="icn_want" title="我想要"></a><a id="javlikbjry" class="icn_seen" title="看过了"></a><a id="javlikbjry" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javliklp2a"><a href="./?v=javliklp2a" title="VENU-684 近親［無言］相姦 隣にお父さんがいるのよ… 真木今日子"><div class="id">VENU-684</div><img src="http://pics.dmm.co.jp/mono/movie/adult/venu684/venu684ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53903/bd2084539021935.jpg');"  /><div class="title" >近親［無言］相姦 隣にお父さんがいるのよ… 真木今日子</div></a><div class="toolbar"><a id="javliklp2a" class="icn_want" title="我想要"></a><a id="javliklp2a" class="icn_seen" title="看过了"></a><a id="javliklp2a" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikdyqm"><a href="./?v=javlikdyqm" title="NKKD-026 胸糞注意 ブサメンの僕に大学の漫画サークルで超可愛いBL好きの彼女が出来たのですが先日それを同じ大学のリア充イケメン拓哉君に軽いノリで口説かれてしまって不条理なイケメン特権で結局お持ち帰りされてしまった時の話です 麻里梨夏"><div class="id">NKKD-026</div><img src="http://pics.dmm.co.jp/mono/movie/adult/nkkd026/nkkd026ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53580/3abfda535799055.jpg');"  /><div class="title" >胸糞注意 ブサメンの僕に大学の漫画サークルで超可愛いBL好きの彼女が出来たのですが先日それを同じ大学のリア充イケメン拓哉君に軽いノリで口説かれてしまって不条理なイケメン特権で結局お持ち帰りされてしまった時の話です 麻里梨夏</div></a><div class="toolbar"><a id="javlikdyqm" class="icn_want" title="我想要"></a><a id="javlikdyqm" class="icn_seen" title="看过了"></a><a id="javlikdyqm" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlikabsy"><a href="./?v=javlikabsy" title="IPZ-891 わたし、犯され過ぎて… 女子校生凌辱記 汚され続ける学級委員長 相沢みなみ"><div class="id">IPZ-891</div><img src="http://pics.dmm.co.jp/mono/movie/adult/ipz891/ipz891ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/52695/009285526947403.jpg');"  /><div class="title" >わたし、犯され過ぎて… 女子校生凌辱記 汚され続ける学級委員長 相沢みなみ</div></a><div class="toolbar"><a id="javlikabsy" class="icn_want" title="我想要"></a><a id="javlikabsy" class="icn_seen" title="看过了"></a><a id="javlikabsy" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javliklp6m"><a href="./?v=javliklp6m" title="SNIS-874 満員電車内でイキ我慢しても無理矢理イカされるデカ尻OL通勤痴漢 葵つかさ"><div class="id">SNIS-874</div><img src="http://pics.dmm.co.jp/mono/movie/adult/snis874/snis874ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails117.imagebam.com/53903/e79cd9539021825.jpg');"  /><div class="title" >満員電車内でイキ我慢しても無理矢理イカされるデカ尻OL通勤痴漢 葵つかさ</div></a><div class="toolbar"><a id="javliklp6m" class="icn_want" title="我想要"></a><a id="javliklp6m" class="icn_seen" title="看过了"></a><a id="javliklp6m" class="icn_have" title="已拥有"></a></div></div>
+<div class="video" id="vid_javlioi73q"><a href="./?v=javlioi73q" title="PGD-606 犯された美人妻 ～夫の目の前で徹底凌辱～ 小川あさ美"><div class="id">PGD-606</div><img src="http://pics.dmm.co.jp/mono/movie/adult/pgd606/pgd606ps.jpg" width="147" height="200" border="0" onerror="ThumbError(this, 'http://thumbnails102.imagebam.com/27570/e08f48275696664.jpg');"  /><div class="title" >犯された美人妻 ～夫の目の前で徹底凌辱～ 小川あさ美</div></a><div class="toolbar"><a id="javlioi73q" class="icn_want" title="我想要"></a><a id="javlioi73q" class="icn_seen" title="看过了"></a><a id="javlioi73q" class="icn_have" title="已拥有"></a></div></div>
+</div><!-- end of videos -->
+</div><!-- end of videothumblist -->
+<div class="page_selector"><span class="page first">|&lt;&lt;</span><span class="page prev">上一页</span><span class="page current">1</span><a class="page" href="/cn/vl_bestrated.php?&mode=&page=2">2</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=3">3</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=4">4</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=5">5</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=6">6</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=7">7</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=8">8</a><a class="page" href="/cn/vl_bestrated.php?&mode=&page=9">9</a><a class="page next" href="/cn/vl_bestrated.php?&mode=&page=2">下一页</a><a class="page next10" href="/cn/vl_bestrated.php?&mode=&page=11">下十页</a><a class="page last" href="/cn/vl_bestrated.php?&mode=&page=25">>>|</a></div>
+</div><!-- end of rightcolumn -->
+
+<div class="bottombanner1" id="bottombanner11" style="display:block; position:relative; width:730px; height:92px; overflow:hidden; margin: 10px auto 0px auto;">
+<script type='text/javascript' src='../js/bnr_009mgm_3.js?1491322222'></script></div>
+<div class="bottombanner2" id="bottombanner22" style="display:block; position:relative; width:730px; height:92px; overflow:hidden; margin: 10px auto 0px auto;">
+</div>
+<!-- ********** End of Content ********** -->
+</div>
+
+<div id="sder43f" style="position: relative; padding: 5px; margin: 0px auto 20px auto; background-color:#eeeeee; text-align:center;"><a href="./publictopic.php?id=13483">新的网址取得方法</a></div><div id="bottommenu">
+<a href="about.php">关于</a> | <a href="terms.php">条款</a> | <a href="privacy.php">隐私</a> | <a href="help.php">帮助</a> | <a href="contact.php">联络</a></div id="bottommenu">
+
+<div id="adultwarningmask">
+	<div id="adultwarningprompt">
+		我至少已经年满十八岁（或是在我所在地已经达到法定成年）。浏览、阅读或是下载成人讯息并不违反我所在社群、程式、地区或是国家。我将为我任何的在这网站所做出的任何不法行为负责。		<p style="text-align:center"><input type="button" value="我同意" onclick="document.getElementById('adultwarningmask').style.display='none'; setCookie('over18', 18);" class="largebutton btnAdultAgree"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" value="我不同意" onclick="document.location.replace('http://en.wikipedia.org/wiki/Main_Page');" class="largebutton"/></p>
+	</div>
+</div>
+<script type="text/javascript">
+if (getCookie("over18") != null && document.getElementById('adultwarningmask')) {document.getElementById('adultwarningmask').style.display='none';}
+</script>
+<div id="bottomcopyright">
+Copyright &copy; 2014 JAVLibrary.com. All Rights Reserved. All other trademarks and copyrights are the property of their respective holders. The reviews and comments expressed at or through this website are the opinions of the individual author and do not reflect the opinions or views of JAVLibrary. JAVLibrary is not responsible for the accuracy of any of the information supplied here.<br />
+<table style="width:100%; margin:0px auto; border:0px; ">
+<tr>
+	<td style="width: 33%; text-align:left;">页面载入时间: 0.001 秒	</td>
+	<td style="width: 34%; text-align:center;">
+<script id="_waukt6">var _wau = _wau || []; _wau.push(["small", "ja6fvsgl4gkg", "kt6"]); (function() {var s=document.createElement("script"); s.async=true; s.src="http://widgets.amung.us/small.js"; document.getElementsByTagName("head")[0].appendChild(s);})();</script>	</td>
+	<td style="width: 33%; text-align:right;">
+	<!-- <script type="text/javascript">var sc_project=8499656; var sc_invisible=0; var sc_security="602af793"; var sc_text=2;</script>
+	<script type='text/javascript' src='http://www.statcounter.com/counter/counter.js'></script> -->
+	</td>
+</tr>
+</table>
+
+<div style="width:3px; height:3px; overflow:hidden; text-align:right;">
+<img src="http://s11.flagcounter.com/mini/Vzmw/bg_000000/txt_FFFFFF/border_000000/flags_1/" border="0" width="1" height="1"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.javlibrary.com"></script><script type="text/javascript">var _qevents = _qevents || []; (function() { var elem = document.createElement("script"); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName("script")[0]; scpt.parentNode.insertBefore(elem, scpt); })(); _qevents.push({ qacct:"p-DdXbsfffgeynQ" });</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-DdXbsfffgeynQ.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript></div><!-- end of trackers -->
+
+<script type='text/javascript' src='../js/advertisement.js?1491322222'></script><noscript><div class="javascript"><script type='text/javascript'><!-- /* example code, remember to change client id
+
+
+
+
+
+<script type="text/javascript">google_ad_client = "pub-1008933299910667"; GS_googleAddAdSenseService("ca-pub-9182336129158669");</script>
+
+<iframe border=0 frameborder=0 marginheight=0 marginwidth=0 width=476 height=68 scrolling=no allowtransparency=true src=http://adserver.juicyads.com/adshow.php?adzone=153136></iframe>
+
+<script type="text/javascript" src="http://syndication.exoclick.com/ads.php?type=160x600&cat=99&idzone=442436&idsite=172338&login=efnlqqdg"></script>*/
+--></script>
+</div><div class="noscript">你所使用的浏览器不支援<strong>JavaScript</strong>或是并没有将<strong>JavaScript</strong>打开。所以本网站目前无法正常运作，并有可能对你造成伤害。为了保险起见，请换一个浏览器，或是将<strong>JavaScript</strong>支援打开。</div></noscript>
+
+<script type="text/javascript">
+<!--
+(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;js.src = "";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+//-->
+</script>
+
+
+</div id="bottomcopyright">
+
+</body>
+</html>
